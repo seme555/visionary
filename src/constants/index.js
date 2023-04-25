@@ -341,3 +341,4 @@ export const socials = [
 // p0tvl
 // ub6119
 // q48ckb
+// p8r1te
